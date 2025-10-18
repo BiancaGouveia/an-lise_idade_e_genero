@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(103, 103, 255);
+    color: whitesmoke;
+    text-align: center;
+
+}
+
+header {
+     text-shadow: 3px 3px 3px black;
+}
+
+section {
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+img {
+    width: 50%;
+}
